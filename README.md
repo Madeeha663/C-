@@ -1,1 +1,2 @@
-# C-
+# C++
+Parking Lot management system
